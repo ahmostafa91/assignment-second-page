@@ -544,3 +544,8 @@ font-size: 0.9em;
     }
 }
 /**********end responsive***********/
+
+#line-chart1 {
+    width: 100% !important;
+    height: 90% !important;
+}
